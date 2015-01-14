@@ -1,27 +1,35 @@
 
 Native-look Compressed File Icons
+======
+
+
+Update for OS X Yosemite
 ------
+
+OS X Yosemite features a more flatter icon design and a much more modern look. New icons change the font from `Lucida Sans` to  `Helvetica Neue`. Here are some different for compressed-file icons:
+
+![Difference](ScreenShots/Screen%20Shot%204.png)
 
 
 What is it?
-======
+------
 
-An alternative icons set for [Keka](http://www.kekaosx.com/) and other OS X file compression tools.
+A system-style compressed-file icon set for third-part archive applications like [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353) and [Keka](http://www.kekaosx.com/).
 
-like this:  
-![Inside Finder.app](http://ww3.sinaimg.cn/large/9a79eae3jw1ecq5vbprc2j20dr08674z.jpg)
-  
-and this:  
-![Notification](http://ww3.sinaimg.cn/large/9a79eae3jw1ecq5vzofvpj20ai02ymx3.jpg)
+Harmony:  
+![Inside Finder.app](ScreenShots/Screen%20Shot%201.png)
+
+and Pleasant:  
+![Notification](ScreenShots/Screen%20Shot%202.png)
 
 
 How to use it?
-======
+------
 
-### For [Keka](http://www.kekaosx.com/) users:   
+### For [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353) users:   
 
-Replace files in `Keka.app/Contents/Resources/`
-with files in Folder `for Keka`.  
+Replace files in `The Unarchiver.app/Contents/Resources/`
+with files in Folder `for The Unarchiver`.  
 
 Restart your computer and enjoy! : )
 
@@ -37,24 +45,13 @@ Restart your computer and enjoy! : )
 
 
 Currently available icons
-======
+------
 
 New:
 
 - 7Z
 - Blank icon
-- CAB
-- CBR
-- CBZ
-- EXE
-- LZMA
 - RAR
-- RXX
-- SIT
-- VOLUME
-- XAR
-- XXX
-- XZ
 
 Native:
 
@@ -72,6 +69,7 @@ Native:
 - TBZ
 - TBZ2
 - TGZ
+- TXZ
 - UU
 - XIP
 - Z
@@ -79,9 +77,9 @@ Native:
 
 
 How to generate new icons?
-======
+------
 
-All Photoshop PSD files are available in folder `editable`. You can edit and generate them with Xcode by creating and building new app.
+You can edit and generate them with Xcode by creating and building new app.
 
 like:
-![Icon Generating](http://ww2.sinaimg.cn/large/9a79eae3jw1ecq71dhsiuj20zu0ebdhn.jpg)
+![Icon Generating](ScreenShots/Screen%20Shot%203.png)
